@@ -1,0 +1,21 @@
+{
+  "ideas":[
+    {"id":1,
+    "title":"Idea one",
+    "body":"body of idea one",
+    "star":false,
+    "quality":"Swill"
+    },
+    {
+    "id":2,
+    "title":"Idea two",
+    "body":"body of idea two",
+    "star":false,
+    "quality":"Swill"},
+    {"id":3,"title":"Idea three",
+    "body":"body of idea three",
+    "star":false,
+    "quality":"Swill"
+    }
+  ]
+}
