@@ -2,7 +2,7 @@
   "ideas":[
     {"id":1,
     "title":"Idea one",
-    "body":"body of idea one",
+    "description":"body of idea one",
     "star":false,
     "quality":"Swill"
     },
